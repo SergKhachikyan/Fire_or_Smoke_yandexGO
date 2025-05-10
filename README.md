@@ -80,6 +80,9 @@ This project uses the following technologies:
 - **Sample Predictions**: See examples of correctly and incorrectly classified images.
 - **Confusion Matrix**: Evaluate model's performance by examining true positives, false positives, etc.
 
+![fire_smoke](https://github.com/user-attachments/assets/7feeb523-18e0-4677-8460-f5c2f09dab66)
+
+
 ---
 
 ## 🤝 Contributing
