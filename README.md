@@ -1,4 +1,4 @@
-# 🔥 Fire and Smoke Detection in Images 🔥
+# 🔥 Fire and Smoke Detection in Images 💨
 
 This project detects fire and smoke in static images using deep learning models, specifically Convolutional Neural Networks (CNNs) built with **TensorFlow** and **Keras**. The model is trained on labeled datasets containing images with and without fire or smoke to enable accurate predictions.
 
